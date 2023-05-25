@@ -11,6 +11,8 @@ This project, trained with Y`OLOv8 model` and predict potholes on the road. The 
 
    **
 
-## Labels:
 
-![plot](/Users/macbook/Desktop/new/runs/detect/yolov8n_custom/labels.png)
+## Result Video
+
+
+[click to watch](https://www.youtube.com/watch?v=_HM_-DqOsko)
